@@ -16,21 +16,10 @@ h1 {
   margin: 15px auto 10px auto ;
 }
 
-h4 {
-  font-size: 2.5rem;
-  font-family: 'Montserrat', sans-serif;
-  color: #555;
-  line-height: 200%;
-  font-weight: normal;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-
 h2 {
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
-  color: #0099cc;
+  color: #555;
   line-height: 200%;
   font-weight: normal;
   margin-top: 10px;
@@ -69,6 +58,7 @@ p {
 }
 .top-cloud {
   position: absolute;
+  width: 9%;
   right: 20%;
   top: 9%;
 }
@@ -80,7 +70,7 @@ p {
 }
 
 .mountain {
-  width: 36%;
+  width: 50%;
 }
 .dude {
   border-radius: 100%;
